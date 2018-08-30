@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="256px" height="82px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2560 820"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#A9ABAE;stroke-width:9.00003;stroke-linecap:round;stroke-linejoin:round}
+    .fil5 {fill:#FEFEFE}
+    .fil8 {fill:#373435}
+    .fil0 {fill:#F7DF52}
+    .fil4 {fill:#FEFEFE;fill-rule:nonzero}
+    .fil3 {fill:#373435;fill-rule:nonzero}
+    .fil10 {fill:url(#id0)}
+    .fil7 {fill:url(#id1)}
+    .fil14 {fill:url(#id2)}
+    .fil13 {fill:url(#id3)}
+    .fil2 {fill:url(#id4)}
+    .fil6 {fill:url(#id5)}
+    .fil16 {fill:url(#id6)}
+    .fil9 {fill:url(#id7)}
+    .fil12 {fill:url(#id8)}
+    .fil15 {fill:url(#id9)}
+    .fil11 {fill:url(#id10)}
+    .fil1 {fill:url(#id11)}
+    .fil18 {fill:url(#id12);fill-rule:nonzero}
+    .fil21 {fill:url(#id13);fill-rule:nonzero}
+    .fil19 {fill:url(#id14);fill-rule:nonzero}
+    .fil17 {fill:url(#id15);fill-rule:nonzero}
+    .fil20 {fill:url(#id16);fill-rule:nonzero}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="1946.1" y1="426.214" x2="1946.1" y2="387.119">
+   <stop offset="0" style="stop-opacity:1; stop-color:#9A3B3E"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#FEFEFE"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="1843.65" y1="426.214" x2="1843.65" y2="387.119">
+  </linearGradient>
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="264.202" y1="347.918" x2="264.202" y2="240.639">
+  </linearGradient>
+  <linearGradient id="id3" gradientUnits="userSpaceOnUse" x1="217.725" y1="357.438" x2="310.666" y2="231.119">
+   <stop offset="0" style="stop-opacity:1; stop-color:#C8C5E2"/>
+   <stop offset="0.34902" style="stop-opacity:1; stop-color:#D7D6E5"/>
+   <stop offset="0.411765" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#E6E7E8"/>
+  </linearGradient>
+  <linearGradient id="id4" gradientUnits="userSpaceOnUse" x1="1897.39" y1="524.187" x2="1897.39" y2="481.631">
+   <stop offset="0" style="stop-opacity:1; stop-color:#C54443"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#2E2A2A"/>
+  </linearGradient>
+  <linearGradient id="id5" gradientUnits="userSpaceOnUse" xlink:href="#id3" x1="1826.71" y1="429.675" x2="1860.57" y2="383.659">
+  </linearGradient>
+  <linearGradient id="id6" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="545.388" y1="347.918" x2="545.388" y2="240.639">
+  </linearGradient>
+  <linearGradient id="id7" gradientUnits="userSpaceOnUse" xlink:href="#id3" x1="1929.16" y1="429.675" x2="1963.02" y2="383.659">
+  </linearGradient>
+  <linearGradient id="id8" gradientUnits="userSpaceOnUse" xlink:href="#id4" x1="411.698" y1="616.821" x2="411.698" y2="500.021">
+  </linearGradient>
+  <linearGradient id="id9" gradientUnits="userSpaceOnUse" xlink:href="#id3" x1="498.911" y1="357.438" x2="591.852" y2="231.119">
+  </linearGradient>
+  <linearGradient id="id10" gradientUnits="userSpaceOnUse" x1="383.859" y1="90.8389" x2="439.537" y2="729.156">
+   <stop offset="0" style="stop-opacity:1; stop-color:#FFF212"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#F79333"/>
+  </linearGradient>
+  <linearGradient id="id11" gradientUnits="userSpaceOnUse" xlink:href="#id10" x1="1887.24" y1="332.54" x2="1907.53" y2="565.112">
+  </linearGradient>
+  <linearGradient id="id12" gradientUnits="userSpaceOnUse" x1="1459.8" y1="408.71" x2="1459.8" y2="479.246">
+   <stop offset="0" style="stop-opacity:1; stop-color:#FFED16"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#F79533"/>
+  </linearGradient>
+  <linearGradient id="id13" gradientUnits="userSpaceOnUse" xlink:href="#id12" x1="2440.97" y1="354.757" x2="2440.97" y2="603.722">
+  </linearGradient>
+  <linearGradient id="id14" gradientUnits="userSpaceOnUse" xlink:href="#id12" x1="1629.06" y1="226.123" x2="1629.06" y2="605.281">
+  </linearGradient>
+  <linearGradient id="id15" gradientUnits="userSpaceOnUse" xlink:href="#id12" x1="1208.76" y1="226.075" x2="1208.76" y2="581.99">
+  </linearGradient>
+  <linearGradient id="id16" gradientUnits="userSpaceOnUse" xlink:href="#id12" x1="2193.99" y1="224.67" x2="2193.99" y2="589.632">
+  </linearGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_310086096">
+   <g>
+    <circle class="fil0" cx="1897" cy="449" r="150"/>
+    <circle class="fil1" cx="1897" cy="449" r="135"/>
+    <path class="fil2" d="M1826 477c58,16 85,14 143,0 0,69 -143,69 -143,0z"/>
+    <path class="fil3" d="M1826 476c29,8 50,11 71,11 22,0 43,-4 72,-11 0,0 1,0 1,1 0,0 0,0 0,0l0 0c0,25 -19,42 -43,49 -9,3 -20,4 -30,4 -10,0 -20,-1 -29,-4 -24,-7 -43,-24 -43,-49 0,-1 0,-1 1,-1 0,0 0,0 0,0zm71 13c-21,0 -42,-3 -70,-11 1,24 19,39 41,46 10,2 19,4 29,4 10,0 20,-2 29,-4 23,-7 41,-22 42,-46 -29,7 -50,11 -71,11z"/>
+    <path class="fil4" d="M1897 489c-21,0 -42,-3 -70,-11 0,8 2,14 5,20l131 0c3,-6 5,-12 5,-20 -29,7 -50,11 -71,11z"/>
+    <circle class="fil5" cx="1854" cy="425" r="1"/>
+    <ellipse class="fil6 str0" cx="1844" cy="407" rx="31" ry="28"/>
+    <ellipse class="fil7" cx="1844" cy="407" rx="22" ry="20"/>
+    <ellipse class="fil8" cx="1844" cy="407" rx="15" ry="14"/>
+    <ellipse class="fil5" cx="1852" cy="401" rx="5" ry="4"/>
+    <circle class="fil5" cx="1956" cy="425" r="1"/>
+    <ellipse class="fil9 str0" cx="1946" cy="407" rx="31" ry="28"/>
+    <ellipse class="fil10" cx="1946" cy="407" rx="22" ry="20"/>
+    <ellipse class="fil8" cx="1946" cy="407" rx="15" ry="14"/>
+    <ellipse class="fil5" cx="1954" cy="401" rx="5" ry="4"/>
+   </g>
+   <circle class="fil0" cx="412" cy="410" r="412"/>
+   <circle class="fil11" cx="412" cy="410" r="370"/>
+   <path class="fil12" d="M216 487c158,44 233,39 392,0 0,190 -392,190 -392,0z"/>
+   <path class="fil3" d="M217 484c79,22 137,32 195,31 58,-1 116,-11 195,-31 2,0 3,1 4,3 0,0 0,0 0,0l0 0c0,70 -52,115 -118,134 -26,8 -54,12 -81,12 -28,0 -56,-4 -81,-12 -67,-19 -118,-64 -118,-134 0,-1 1,-3 3,-3 0,0 0,0 1,0zm195 37c-58,1 -116,-9 -193,-30 1,65 51,106 113,125 25,7 52,11 80,11 27,0 54,-4 79,-11 63,-19 112,-60 114,-125 -78,19 -136,29 -193,30z"/>
+   <path class="fil4" d="M412 521c-58,1 -116,-9 -193,-30 0,20 5,38 14,53l358 0c8,-15 13,-33 14,-53 -78,19 -136,29 -193,30z"/>
+   <circle class="fil5" cx="292" cy="343" r="2"/>
+   <ellipse class="fil13 str0" cx="264" cy="294" rx="86" ry="76"/>
+   <ellipse class="fil14" cx="264" cy="294" rx="61" ry="54"/>
+   <ellipse class="fil8" cx="264" cy="294" rx="42" ry="37"/>
+   <ellipse class="fil5" cx="287" cy="279" rx="14" ry="12"/>
+   <circle class="fil5" cx="573" cy="343" r="2"/>
+   <ellipse class="fil15 str0" cx="545" cy="294" rx="86" ry="76"/>
+   <ellipse class="fil16" cx="545" cy="294" rx="61" ry="54"/>
+   <ellipse class="fil8" cx="545" cy="294" rx="42" ry="37"/>
+   <ellipse class="fil5" cx="568" cy="279" rx="14" ry="12"/>
+   <path class="fil17" d="M1158 477l97 0 -48 -115 -49 115zm-137 116l187 -378 6 0 183 378 -92 0 -23 -53 -149 0 -24 53 -88 0z"/>
+   <polygon class="fil18" points="1393,479 1393,409 1527,409 1527,479 "/>
+   <path class="fil19" d="M1538 517c9,4 18,7 25,9 8,2 15,3 21,3 17,0 30,-6 37,-17 7,-11 11,-31 11,-58l0 -228 88 0 0 249c0,42 -11,74 -32,97 -22,22 -54,33 -95,33 -8,0 -15,0 -23,-1 -8,-1 -16,-3 -24,-5l-8 -82z"/>
+   <polygon class="fil20" points="2147,593 2070,593 2070,232 2147,221 2147,459 2216,365 2300,365 2220,463 2318,593 2231,593 2147,472 "/>
+   <path class="fil21" d="M2398 458l99 -3 0 -4c0,-12 -5,-21 -13,-29 -8,-8 -19,-12 -32,-12 -14,0 -26,4 -36,13 -9,8 -15,20 -18,35zm151 54l-9 70c-15,7 -31,13 -46,16 -15,4 -30,6 -45,6 -38,0 -69,-11 -92,-33 -23,-22 -35,-50 -35,-86 0,-36 13,-67 38,-92 26,-26 57,-38 93,-38 31,0 57,9 77,28 20,18 30,42 30,71 0,5 0,12 -1,22l0 2 -7 10 -156 4c1,16 8,28 19,38 12,9 27,14 44,14 13,0 27,-3 42,-8 15,-5 31,-13 48,-24z"/>
+  </g>
+ </g>
+</svg>
