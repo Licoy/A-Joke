@@ -1,3 +1,7 @@
+<h1 align=center>
+<img src="logo/1024 Logotype.png" width=60%>
+</h1>
+
 ## 阐述
  一个笑话，目的就是想让你笑一秒钟~
 
